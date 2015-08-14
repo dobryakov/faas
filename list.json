@@ -1,0 +1,20 @@
+{
+  "repository": [
+    {
+      "name": "dobryakov/validates-email",
+      "description": "validates user email",
+      "endpoint": "http://www.dobryakov.com/faas/validates-email.php",
+      "http-type": "GET",
+      "examples": [
+        {
+          "request": {
+            "email": "grigoriydobryakov@somedomain.com"
+          },
+          "response": {
+            "result": true
+          }
+        }
+      ]
+    }
+  ]
+}
