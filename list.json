@@ -13,7 +13,7 @@
           "response": {
             "result": "success",
             "data": true,
-            "error": ""
+            "errors": []
           }
         }
       ]
