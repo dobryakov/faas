@@ -11,7 +11,9 @@
             "email": "grigoriydobryakov@somedomain.com"
           },
           "response": {
-            "result": true
+            "result": "success",
+            "data": true,
+            "error": ""
           }
         }
       ]
