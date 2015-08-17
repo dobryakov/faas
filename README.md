@@ -12,8 +12,12 @@ Faas::call( 'dobryakov/validates-email', { 'email' => 'test@somedomain.com' } ) 
 
 It's make a HTTP-request (synchronous for PHP, asynchronous for JS, for example) to your or somebody remote endpoint with wrapped data, and unwrap the answer to your inline code.
 
+# Adapters
+
+PHP: https://github.com/dobryakov/faas-php/blob/master/faas-adapter.php
+
 # TODO
 
-Callbacks
-Exceptions
-Tests
+- Callbacks
+- Exceptions
+- Tests
