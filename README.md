@@ -14,7 +14,7 @@ It's make a HTTP-request (synchronous for PHP, asynchronous for JS, for example)
 
 # Adapters
 
-PHP: https://github.com/dobryakov/faas-php/blob/master/faas-adapter.php
+PHP: https://github.com/dobryakov/faas-php
 
 # TODO
 
